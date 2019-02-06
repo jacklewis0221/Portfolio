@@ -19,9 +19,16 @@ h2 {
   font-weight: bold;
 }
 
-#title {
+.Title {
   background-color: #13abc4;
   color: #fff;
+}
+
+.Testimonials {
+  padding: 7% 10%;
+  text-align: center;
+  background-color: #93deff;
+  color: black;
 }
 
 .container-fluid {
@@ -54,13 +61,6 @@ background-color: #323643;
 /* download buttons */
 .download-button {
   margin: 5% 3% 5% 0;
-}
-
-#testimonials {
-  padding: 7% 10%;
-  text-align: center;
-  background-color: #93deff;
-  color: black;
 }
 
 .carousel-control-prev {
