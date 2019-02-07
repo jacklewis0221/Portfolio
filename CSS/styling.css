@@ -21,9 +21,51 @@ h2 {
   font-weight: bold;
 }
 
+/* Contact me section */
+.contact_form{
+  background-color: #005792;
+  color: color: #d9faff;
+  padding: 3%;
+  padding-bottom: 10%;
+
+}
+
+/* Images for about me section */
+.map{
+  padding-top: 5%;
+  padding-left: 10%;
+  width: 80%;
+}
+
+.und{
+  width: 70%;
+  padding-top: 15%;
+}
+
+.young-pic {
+  width: 70%;
+  border-radius: 20%;
+  margin: 50px;
+}
+
+.Bio{
+  background-color: #005792;
+  color: #d9faff;
+  padding: 5%;
+}
+
+#title{
+  background-color: #00bbf0;
+  color: #d9faff;
+  margin: : 2%;
+  border: 2%;
+}
+
 .Title {
   background-color: #00bbf0;
-  color: ##d9faff;
+  color: #d9faff;
+  margin: : 2%;
+  border: 2%;
 }
 
 .Testimonials {
@@ -61,37 +103,8 @@ background-color: #00204a
 
 .nav-link {
   font-size: 1.5rem;
-  font-family: "Catamaran";
+  font-family: "Montserrat-Light";
   color: #d9faff;
-}
-
-/* Bio For About me Page. */
-.Bio{
-  background-color: #005792;
-  color: #d9faff;
-}
-
-#bio{
-  background-color: #005792;
-  color: #d9faff;
-}
-
-/* Images for about me page. */
-.map{
-  padding-top: 5%;
-  padding-left: 10%;
-  width: 80%;
-}
-
-.und{
-  width: 70%;
-  padding-top: 15%;
-}
-
-.young-pic {
-  width: 70%;
-  border-radius: 20%;
-  margin: 50px;
 }
 
 /* download buttons */
