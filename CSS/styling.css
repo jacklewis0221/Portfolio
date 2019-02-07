@@ -76,6 +76,23 @@ background-color: #00204a
   color: #d9faff;
 }
 
+/* Images for about me page. */
+.map{
+  padding-top: 5%;
+  padding-left: 10%;
+  width: 80%;
+}
+
+.und{
+  width: 70%;
+  padding-top: 15%;
+}
+
+.young-pic {
+  width: 70%;
+  border-radius: 20%;
+  margin: 50px;
+}
 
 /* download buttons */
 .download-button {
