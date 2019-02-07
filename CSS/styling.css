@@ -118,11 +118,11 @@ background-color: #00204a
 }
 
 .carousel-control-prev {
-    left: -100px;
+    left: -10%;
     color: #d9faff;
 }
 .carousel-control-next {
-    left: 900px;
+    left: 95%;
     color: #d9faff;
 }
 
