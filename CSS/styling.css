@@ -71,6 +71,12 @@ background-color: #00204a
   color: #d9faff;
 }
 
+#bio{
+  background-color: #005792;
+  color: #d9faff;
+}
+
+
 /* download buttons */
 .download-button {
   margin: 5% 3% 5% 0;
