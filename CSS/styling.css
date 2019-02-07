@@ -65,6 +65,12 @@ background-color: #00204a
   color: #d9faff;
 }
 
+/* Bio For About me Page. */
+.Bio{
+  background-color: #005792;
+  color: #d9faff;
+}
+
 /* download buttons */
 .download-button {
   margin: 5% 3% 5% 0;
