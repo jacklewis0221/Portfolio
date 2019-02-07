@@ -94,7 +94,7 @@ background-color: #00204a
 }
 
 .navbar-brand {
-  font-family: "Ubuntu";
+  font-family: Catamaran-Bold;
   font-size: 2.5rem;
   font-weight: bold;
   color: #d9faff;
@@ -108,7 +108,7 @@ background-color: #00204a
 
 .nav-link {
   font-size: 1.5rem;
-  font-family: "Montserrat-Light";
+  font-family: Catamaran;
   color: #d9faff;
 }
 
