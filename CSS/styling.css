@@ -54,11 +54,16 @@ h2 {
   padding: 5%;
 }
 
+/* Front Page Section */
 #title{
   background-color: #00bbf0;
   color: #d9faff;
   margin: : 2%;
   border: 2%;
+}
+
+.first{
+  padding: 5%;
 }
 
 .Title {
